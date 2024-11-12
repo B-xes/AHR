@@ -10,6 +10,13 @@ body{
     background-color:#6b5e00;
     
 }
+
+@media only and screen (max-width:600px) {
+    li  {
+        font-size: 10px;
+    }
+}
+
 a{
     color: gold;
     text-decoration: none;
