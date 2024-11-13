@@ -161,41 +161,41 @@ ul li{
 
 @media only screen and (max-width:320px) {
     ul li  {
-       width: 10%;
+       width: 70%;
         
     }
 }
 
 @media only screen and (max-width:480px) {
     ul li  {
-       width: 10%;
+       width: 70%;
         
     }
 }
 
 @media only screen and (min-width:600px) {
     ul li  {
-        width: 10%;
+        width: 70%;
         
     }
 }
 
 @media only screen and (max-width:801px) {
     ul li  {
-        width: 50%;
-        margin-bottom: 4px;
+        width: 70%;
+        
     }
 }
 
 @media only screen and (max-width:1025px) {
     ul li  {
-        width: 10%;
+        width: 70%;
         
     }
 }
 
 @media only screen and (max-width:1281px) {
     ul li {
-        width: 10%;
+        width: 70%;
         
     }
