@@ -90,6 +90,47 @@ button[type="submit"] {
     background-blend-mode: multiply;
 }
 
+@media only screen and (max-width:320px) {
+    ul li  {
+       font-size: 25px;
+        
+    }
+}
+
+@media only screen and (max-width:480px) {
+    ul li  {
+      font-size: 25px;
+        
+    }
+}
+
+@media only screen and (min-width:600px) {
+    ul li  {
+        font-size: 25px;
+        
+    }
+}
+
+@media only screen and (max-width:801px) {
+    ul li  {
+        font-size: 25px;
+        
+    }
+}
+
+@media only screen and (max-width:1025px) {
+    ul li  {
+        font-size: 25px;
+        
+    }
+}
+
+@media only screen and (max-width:1281px) {
+    ul li {
+        font-size: 25px;
+        
+    }
+
 .mainbody{
     font-size: 25px;
     background-color: #6b5e00;
