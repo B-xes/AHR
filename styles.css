@@ -161,35 +161,35 @@ ul li{
 
 @media only screen and (max-width:320px) {
     ul li  {
-        font-size: 100px;
+        font-size: 10px;
     }
 }
 
 @media only screen and (max-width:480px) {
     ul li  {
-        font-size: 100px;
+        font-size: 10px;
     }
 }
 
 @media only screen and (min-width:600px) {
     ul li  {
-        font-size: 100px;
+        font-size: 10px;
     }
 }
 
 @media only screen and (max-width:801px) {
     ul li  {
-        font-size: 100px;
+        font-size: 10px;
     }
 }
 
 @media only screen and (max-width:1025px) {
     ul li  {
-        font-size: 100px;
+        font-size: 10px;
     }
 }
 
 @media only screen and (max-width:1281px) {
     ul li {
-        font-size: 100px;
+        font-size: 10px;
     }
