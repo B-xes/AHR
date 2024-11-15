@@ -10,8 +10,6 @@ body{
     background-color:#6b5e00;
     
 }
-
-
 a{
     color: gold;
     text-decoration: none;
@@ -90,47 +88,6 @@ button[type="submit"] {
     background-blend-mode: multiply;
 }
 
-@media only screen and (max-width:320px) {
-    ul li  {
-       font-size: 25px;
-        
-    }
-}
-
-@media only screen and (max-width:480px) {
-    ul li  {
-      font-size: 25px;
-        
-    }
-}
-
-@media only screen and (min-width:600px) {
-    ul li  {
-        font-size: 25px;
-        
-    }
-}
-
-@media only screen and (max-width:801px) {
-    ul li  {
-        font-size: 25px;
-        
-    }
-}
-
-@media only screen and (max-width:1025px) {
-    ul li  {
-        font-size: 25px;
-        
-    }
-}
-
-@media only screen and (max-width:1281px) {
-    ul li {
-        font-size: 25px;
-        
-    }
-
 .mainbody{
     font-size: 25px;
     background-color: #6b5e00;
@@ -162,7 +119,6 @@ padding-bottom: 50px;
 font-family: Arial, Helvetica, sans-serif;
 letter-spacing: -0.25px;
 }
-
 
 h1{
     color: gold;
@@ -199,44 +155,3 @@ ul li{
     font-family: Arial, Helvetica, sans-serif;
     
 }
-
-@media only screen and (max-width:320px) {
-    ul li  {
-       width: 70%;
-        
-    }
-}
-
-@media only screen and (max-width:480px) {
-    ul li  {
-       width: 70%;
-        
-    }
-}
-
-@media only screen and (min-width:600px) {
-    ul li  {
-        width: 70%;
-        
-    }
-}
-
-@media only screen and (max-width:801px) {
-    ul li  {
-        width: 70%;
-        
-    }
-}
-
-@media only screen and (max-width:1025px) {
-    ul li  {
-        width: 70%;
-        
-    }
-}
-
-@media only screen and (max-width:1281px) {
-    ul li {
-        width: 70%;
-        
-    }
