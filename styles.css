@@ -1,0 +1,202 @@
+body{
+    background-color: forestgreen;
+    width: max-content;
+    height: max-content;
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-color:#6b5e00;
+    
+}
+a{
+    color: gold;
+    text-decoration: none;
+    }
+
+
+.header{    
+    background-color: #4F9153;
+    border: solid 3px gold;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+fieldset{
+    margin: 2em 0;
+    padding: 1em 2em;
+    border: solid 1px gold;
+    border-radius: 6px;
+    min-width: 200px;
+}
+
+legend{
+    font-size: 1.25em;
+    padding: 0 .25em;
+    color: gold;
+}
+
+label{
+    display: block;
+    margin-top: 1px;
+    color: gold;
+}
+
+input{
+    padding: .5em;
+    border: solid 1px gold;
+}
+
+textarea{
+    min-height: 8em;
+    min-width: 100%;
+    padding: 1px;
+    border: solid 1px gold;
+}
+
+button[type="submit"] {
+    border-radius: 6px;
+    background-color:gold;
+    color:#4F9153;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nameslot{
+    display: block;
+    }
+
+
+.pages{
+    margin-top: 20px;
+    align-self: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    letter-spacing: -0.25px;
+    text-shadow: 1px 1px 3px #000;
+    padding-bottom: 5px;
+    padding-right: 2px;
+    padding-left: 2px;
+    background-blend-mode: multiply;
+}
+
+.mainbody{
+    font-size: 25px;
+    background-color: #6b5e00;
+}
+
+.estimates{
+    font-size: 25px;
+    text-align: center;
+    background-color:#6b5e00;
+    
+}
+
+.safety{
+    font-size: 25px;
+    text-align: center;
+    
+    background-color:#6b5e00;
+    margin-bottom: 40px;
+}
+
+
+
+.other{
+color: gold;
+font-size: 25px;
+align-self: center;
+background-color:#6b5e00;
+padding-bottom: 50px;
+font-family: Arial, Helvetica, sans-serif;
+letter-spacing: -0.25px;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p{
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+h4{
+    font-size: 25px;
+    color: gold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+      
+}
+
+ul li{
+    width: 33%;
+    float: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+@media only screen and (max-width:320px) {
+    ul li  {
+       width: 70%;
+        
+    }
+}
+
+@media only screen and (max-width:480px) {
+    ul li  {
+       width: 70%;
+        
+    }
+}
+
+@media only screen and (min-width:600px) {
+    ul li  {
+        width: 70%;
+        
+    }
+}
+
+@media only screen and (max-width:801px) {
+    ul li  {
+        width: 70%;
+        
+    }
+}
+
+@media only screen and (max-width:1025px) {
+    ul li  {
+        width: 70%;
+        
+    }
+}
+
+@media only screen and (max-width:1281px) {
+    ul li {
+        width: 70%;
+        
+    }
+
+.pj1{
+    border: solid 5px;
+    border-color: gold;
+    padding: 2px;
+}
